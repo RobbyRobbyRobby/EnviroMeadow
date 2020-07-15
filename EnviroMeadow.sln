@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviroMeadow", "EnviroMeadow\EnviroMeadow.csproj", "{FE3F1692-9DDD-4E3E-8837-12682DAD981C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3F1692-9DDD-4E3E-8837-12682DAD981C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3F1692-9DDD-4E3E-8837-12682DAD981C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3F1692-9DDD-4E3E-8837-12682DAD981C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FE3F1692-9DDD-4E3E-8837-12682DAD981C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3F1692-9DDD-4E3E-8837-12682DAD981C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3F1692-9DDD-4E3E-8837-12682DAD981C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1261F47-FA50-4586-90C4-860B3703EA6C}
+	EndGlobalSection
+EndGlobal
